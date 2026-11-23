@@ -1,0 +1,31 @@
+=============================================
+          SMART CANTEEN MENU
+=============================================
+1. Idli           Rs.  20   Stock:  50
+2. Dosa           Rs.  30   Stock:  40
+3. Sambar         Rs.  10   Stock:  80
+4. Tea            Rs.   8   Stock: 100
+5. Coffee         Rs.  12   Stock:  60
+6. Rice Meal      Rs.  60   Stock:  20
+=============================================
+
+How many items to order? 2
+Item number: 6
+Quantity: 4
+Item number: 2
+Quantity: 3
+
+=============================================
+               ORDER BILL
+=============================================
+Rice Meal                 x4
+Dosa                      x3
+---------------------------------------------
+Subtotal                  Rs.  330.00
+Discount (10%)           -Rs.   33.00
+PAYABLE AMOUNT            Rs.  297.00
+=============================================
+
+--- LOW STOCK ALERT REPORT ---
+  All canteen items are adequately stocked.
+=============================================

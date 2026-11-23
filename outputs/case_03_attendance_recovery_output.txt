@@ -1,0 +1,13 @@
+=======================================================
+       ATTENDANCE RECOVERY COMPUTATION SYSTEM
+=======================================================
+Total classes held: 60
+Classes attended: 38
+
+Current Attendance: 63.33%
+Target Threshold           : 75.00%
+Consecutive Classes Needed : 28
+Projected Total Classes    : 88
+Projected Attended Classes : 66
+Attendance after attending : 75.00%
+=======================================================

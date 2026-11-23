@@ -1,0 +1,15 @@
+=================================================================
+        WAREHOUSE INVENTORY RECONCILIATION REPORT
+=================================================================
+Item            System  Physical    Diff  Status              
+-----------------------------------------------------------------
+Rice Bags          150       143      -7  DISCREPANCY
+Sugar               80        85       5  OK
+Oil Cans            45        38      -7  DISCREPANCY
+Wheat              200       200       0  OK
+Salt                30        18     -12  DISCREPANCY REORDER
+=================================================================
+Total Items Evaluated : 5
+Discrepancies Flagged : 3
+Items Below Reorder   : 1
+=================================================================

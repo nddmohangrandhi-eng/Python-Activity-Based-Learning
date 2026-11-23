@@ -1,0 +1,10 @@
+# Python Activity-Based Learning
+# Python 3.8+ Recommended
+
+# All 10 case study programs are built exclusively using Python's standard library
+# and require no external dependencies to execute.
+
+# The dependencies below are only used for automated testing, screen capture verification,
+# and PDF report inspection.
+Pillow>=10.0.0
+pypdf>=4.0.0

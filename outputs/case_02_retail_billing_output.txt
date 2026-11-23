@@ -1,0 +1,38 @@
+============================================================
+       RETAIL BILLING & INVOICE MANAGEMENT SYSTEM
+============================================================
+Enter number of products: 3
+
+Product 1:
+  Product name: Rice (5kg)
+  Category (Grocery/Electronics/Luxury): Grocery
+  Quantity: 2
+  Unit price: 250
+
+Product 2:
+  Product name: Headphones
+  Category (Grocery/Electronics/Luxury): Electronics
+  Quantity: 1
+  Unit price: 3500
+
+Product 3:
+  Product name: Perfume
+  Category (Grocery/Electronics/Luxury): Luxury
+  Quantity: 2
+  Unit price: 1800
+
+============================================================
+                  RETAIL INVOICE
+============================================================
+Product               Qty     Price     Total       Tax
+------------------------------------------------------------
+Rice (5kg)              2    250.00    500.00     25.00
+Headphones              1   3500.00   3500.00    420.00
+Perfume                 2   1800.00   3600.00    648.00
+------------------------------------------------------------
+Subtotal                                        7600.00
+Discount (5%)                                   -380.00
+Total Tax                                       1093.00
+============================================================
+FINAL PAYABLE AMOUNT                            8313.00
+============================================================

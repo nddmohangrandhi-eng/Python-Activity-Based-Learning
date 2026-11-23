@@ -1,0 +1,28 @@
+==================================================
+     EMPLOYEE PAYROLL & DEDUCTION ANALYSIS
+==================================================
+Enter employee name: Rajesh Kumar
+Enter basic pay: 75000
+Enter overtime hours: 10
+Enter incentive amount: 5000
+
+==================================================
+           SALARY STATEMENT
+==================================================
+Employee Name         : Rajesh Kumar
+Basic Pay             : Rs.75,000.00
+HRA (20%)             : Rs.15,000.00
+DA  (10%)             : Rs.7,500.00
+Overtime Compensation : Rs.5,000.00
+Incentive             : Rs.5,000.00
+--------------------------------------------------
+GROSS SALARY          : Rs.107,500.00
+--------------------------------------------------
+Income Tax (10%)       : Rs.10,750.00
+Provident Fund (12%)  : Rs.9,000.00
+Other Deductions      : Rs.2,000.00
+--------------------------------------------------
+Total Deductions      : Rs.21,750.00
+==================================================
+NET SALARY            : Rs.85,750.00
+==================================================
