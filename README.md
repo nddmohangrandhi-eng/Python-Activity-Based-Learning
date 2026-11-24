@@ -7,6 +7,14 @@ A comprehensive, curriculum-aligned academic project featuring **10 Real-World P
 
 ---
 
+## Complete Assignment PDF
+
+**[Download the complete 10-project report PDF](https://raw.githubusercontent.com/mvnrkvarma2009/Python-Activity-Based-Learning/main/report/assignment_report.pdf)**
+
+The PDF contains the complete academic assignment in one document. The repository also provides all 10 programs, output files, screenshots, algorithms, flowcharts, and test cases separately.
+
+---
+
 ## Table of Contents
 1. [Project Overview](#project-overview)
 2. [Syllabus Concepts Covered](#syllabus-concepts-covered)
