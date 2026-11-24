@@ -9,11 +9,11 @@ A comprehensive, curriculum-aligned academic project featuring **10 Real-World P
 
 ## Complete Assignment PDF
 
-**[Download the complete 10-project assignment PDF](https://raw.githubusercontent.com/mvnrkvarma2009/Python-Activity-Based-Learning/main/report/assignment_report.pdf)**
+**[Download the complete 10-project assignment PDF](https://raw.githubusercontent.com/nddmohangrandhi-eng/Python-Activity-Based-Learning/main/report/assignment_report.pdf)**
 
 The PDF contains all 10 case studies in one document. This GitHub repository provides the corresponding Python programs, execution outputs, screenshots, algorithms, flowcharts, and test cases.
 
-**Repository:** https://github.com/mvnrkvarma2009/Python-Activity-Based-Learning
+**Repository:** https://github.com/nddmohangrandhi-eng/Python-Activity-Based-Learning
 
 ---
 
@@ -150,7 +150,7 @@ Python-Activity-Based-Learning/
 
 ### Clone the Repository
 ```bash
-git clone https://github.com/mvnrkvarma2009/Python-Activity-Based-Learning.git
+git clone https://github.com/nddmohangrandhi-eng/Python-Activity-Based-Learning.git
 cd Python-Activity-Based-Learning
 ```
 
